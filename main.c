@@ -41,8 +41,7 @@ int main(void) {
         sleep(1); // Wait 1 second
         totalSeconds--;
     }
-    
-    // Timer finished
+
     clearScreen();
     printf("⏰ TIME'S UP! ⏰\n");
     printf("Great job on your focus session!\n");
